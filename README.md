@@ -99,16 +99,3 @@ This project solves the problem by:
 📌 Conclusion
 
 This project simplifies legal understanding by converting complex contracts into clear, actionable insights. It helps users make informed decisions and reduces the risk of signing unfair agreements.
-
-⸻
-
-👨‍💻 Author
-
-Akash Kumar Sahu
-
-⸻
-
-If you want, I can also:
-	•	Add GitHub badges + demo section
-	•	Write project description (short one-line)
-	•	Help you make it look like top GitHub projects 🔥
