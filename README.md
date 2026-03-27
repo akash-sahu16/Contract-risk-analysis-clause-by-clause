@@ -1,9 +1,4 @@
 # Contract-risk-analysis-clause-by-clause
-Here’s a clean, professional, recruiter-friendly README you can directly paste into your GitHub:
-
-⸻
-
-📄 Clause-by-Clause Contract Analysis System
 
 🚀 Project Overview
 
